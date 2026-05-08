@@ -1,6 +1,6 @@
 # RAG Pipeline – Medical Document Q&A
 
-A Retrieval-Augmented Generation (RAG) system that ingests medical PDF documents, stores embeddings in a ChromaDB vector database, and exposes a FastAPI `/ask` endpoint for question answering with source attribution.
+A Retrieval-Augmented Generation (RAG) system that ingests medical (Diabetes) PDF documents, stores embeddings in a ChromaDB vector database, and exposes a FastAPI `/ask` endpoint for question answering with source attribution.
 
 ---
 
